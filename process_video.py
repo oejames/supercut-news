@@ -92,7 +92,7 @@ def transcribe_video(video_file):
 #     most_common = Counter(unigrams).most_common(num_words)
 
 
-#     ##### SHOULD I GET LIKE JUST 5 MOST COMMON INSTEAD OF 10?? THIS SHIT GON BE SO LONG!!!!
+#     ##### could try 5 most common words isntead of 10
     
 #     # Extract the words
 #     words = [w[0] for w in most_common]
